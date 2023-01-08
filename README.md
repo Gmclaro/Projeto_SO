@@ -117,4 +117,12 @@ After building the code, a program will be put in the <tt>«your-project»/bin</
 Of course you can write your own testing programs. Do not forget to edit appropriately
 the main <tt>CMakeList.txt</tt> file.
 
+### Authors:
+
+- [Guilherme Claro](https://github.com/Gmclaro)
+- [Tiago Mostardinha](https://github.com/TiagoMostardinha)
+-[João Castanheira](https://github.com/CastanheiraOnCode)
+-[Ricardo Covelo](https://github.com/covelo12)
+-[Rodrigo Rodrigues](https://github.com/Rodrigolr-lab)
+
 
