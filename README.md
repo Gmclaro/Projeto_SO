@@ -121,8 +121,8 @@ the main <tt>CMakeList.txt</tt> file.
 
 - [Guilherme Claro](https://github.com/Gmclaro)
 - [Tiago Mostardinha](https://github.com/TiagoMostardinha)
--[João Castanheira](https://github.com/CastanheiraOnCode)
--[Ricardo Covelo](https://github.com/covelo12)
--[Rodrigo Rodrigues](https://github.com/Rodrigolr-lab)
+- [João Castanheira](https://github.com/CastanheiraOnCode)
+- [Ricardo Covelo](https://github.com/covelo12)
+- [Rodrigo Rodrigues](https://github.com/Rodrigolr-lab)
 
 
